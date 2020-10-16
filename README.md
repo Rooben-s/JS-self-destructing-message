@@ -1,0 +1,2 @@
+# JS self-destructing message
+ 
